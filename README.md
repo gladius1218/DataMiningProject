@@ -1,8 +1,3 @@
 # DataMiningProject
 
-
-
-Yelp Dataset 
-
-
-Renqing Gao (gladius) & Amal Kadi (akadi)
+![alt tag](https://github.com/gladius1218/DataMiningProject/blob/master/YelpPoster.png)
